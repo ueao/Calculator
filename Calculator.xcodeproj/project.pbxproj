@@ -14,6 +14,10 @@
 		5864FC741C6C27CF00E4A129 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5864FC721C6C27CF00E4A129 /* LaunchScreen.storyboard */; };
 		5864FC7F1C6C27CF00E4A129 /* CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5864FC7E1C6C27CF00E4A129 /* CalculatorTests.swift */; };
 		5864FC8A1C6C27CF00E4A129 /* CalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5864FC891C6C27CF00E4A129 /* CalculatorUITests.swift */; };
+		5864FC981C6C379300E4A129 /* カウントくん１号.png in Resources */ = {isa = PBXBuildFile; fileRef = 5864FC971C6C379300E4A129 /* カウントくん１号.png */; };
+		5864FC9B1C6C3A6600E4A129 /* Calculator02.png in Resources */ = {isa = PBXBuildFile; fileRef = 5864FC991C6C3A6600E4A129 /* Calculator02.png */; };
+		5864FC9C1C6C3A6600E4A129 /* カウントくも.png in Resources */ = {isa = PBXBuildFile; fileRef = 5864FC9A1C6C3A6600E4A129 /* カウントくも.png */; };
+		5864FC9E1C6C3DC800E4A129 /* けいさんくんボタン.png in Resources */ = {isa = PBXBuildFile; fileRef = 5864FC9D1C6C3DC800E4A129 /* けいさんくんボタン.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +51,10 @@
 		5864FC851C6C27CF00E4A129 /* CalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CalculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5864FC891C6C27CF00E4A129 /* CalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorUITests.swift; sourceTree = "<group>"; };
 		5864FC8B1C6C27CF00E4A129 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5864FC971C6C379300E4A129 /* カウントくん１号.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "カウントくん１号.png"; sourceTree = "<group>"; };
+		5864FC991C6C3A6600E4A129 /* Calculator02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Calculator02.png; sourceTree = "<group>"; };
+		5864FC9A1C6C3A6600E4A129 /* カウントくも.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "カウントくも.png"; sourceTree = "<group>"; };
+		5864FC9D1C6C3DC800E4A129 /* けいさんくんボタン.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "けいさんくんボタン.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +108,10 @@
 				5864FC691C6C27CF00E4A129 /* AppDelegate.swift */,
 				5864FC6B1C6C27CF00E4A129 /* ViewController.swift */,
 				5864FC6D1C6C27CF00E4A129 /* Main.storyboard */,
+				5864FC9D1C6C3DC800E4A129 /* けいさんくんボタン.png */,
+				5864FC991C6C3A6600E4A129 /* Calculator02.png */,
+				5864FC9A1C6C3A6600E4A129 /* カウントくも.png */,
+				5864FC971C6C379300E4A129 /* カウントくん１号.png */,
 				5864FC701C6C27CF00E4A129 /* Assets.xcassets */,
 				5864FC721C6C27CF00E4A129 /* LaunchScreen.storyboard */,
 				5864FC751C6C27CF00E4A129 /* Info.plist */,
@@ -233,7 +245,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				5864FC741C6C27CF00E4A129 /* LaunchScreen.storyboard in Resources */,
+				5864FC981C6C379300E4A129 /* カウントくん１号.png in Resources */,
+				5864FC9E1C6C3DC800E4A129 /* けいさんくんボタン.png in Resources */,
+				5864FC9B1C6C3A6600E4A129 /* Calculator02.png in Resources */,
 				5864FC711C6C27CF00E4A129 /* Assets.xcassets in Resources */,
+				5864FC9C1C6C3A6600E4A129 /* カウントくも.png in Resources */,
 				5864FC6F1C6C27CF00E4A129 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
