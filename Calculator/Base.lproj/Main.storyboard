@@ -18,67 +18,64 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="カウントくん１号.png" translatesAutoresizingMaskIntoConstraints="NO" id="4Hv-hT-s8C">
-                                <rect key="frame" x="52" y="0.0" width="316" height="463"/>
+                                <rect key="frame" x="52" y="29" width="316" height="463"/>
                             </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="カウントくも.png" translatesAutoresizingMaskIntoConstraints="NO" id="vbm-qr-m88">
-                                <rect key="frame" x="-4" y="175" width="187" height="109"/>
+                                <rect key="frame" x="-4" y="204" width="187" height="109"/>
                             </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Calculator02.png" translatesAutoresizingMaskIntoConstraints="NO" id="jqs-mi-KHw">
-                                <rect key="frame" x="14" y="280" width="83" height="74"/>
+                                <rect key="frame" x="14" y="309" width="83" height="74"/>
                             </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Calculator02.png" translatesAutoresizingMaskIntoConstraints="NO" id="Shb-fh-kae">
-                                <rect key="frame" x="14" y="356" width="83" height="78"/>
+                                <rect key="frame" x="14" y="385" width="83" height="78"/>
                             </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Calculator02.png" translatesAutoresizingMaskIntoConstraints="NO" id="mZ9-Ly-B9S">
-                                <rect key="frame" x="14" y="442" width="84" height="80"/>
+                                <rect key="frame" x="14" y="471" width="84" height="80"/>
                             </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Calculator02.png" translatesAutoresizingMaskIntoConstraints="NO" id="d35-yN-cPc">
-                                <rect key="frame" x="99" y="280" width="83" height="74"/>
+                                <rect key="frame" x="99" y="309" width="83" height="74"/>
                             </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Calculator02.png" translatesAutoresizingMaskIntoConstraints="NO" id="D5L-kO-Tg0">
-                                <rect key="frame" x="99" y="359" width="83" height="78"/>
+                                <rect key="frame" x="99" y="388" width="83" height="78"/>
                             </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Calculator02.png" translatesAutoresizingMaskIntoConstraints="NO" id="7Kw-ia-xIJ">
-                                <rect key="frame" x="97" y="442" width="86" height="80"/>
+                                <rect key="frame" x="97" y="471" width="86" height="80"/>
                             </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Calculator02.png" translatesAutoresizingMaskIntoConstraints="NO" id="uoc-0t-oGt">
-                                <rect key="frame" x="183" y="281" width="83" height="74"/>
+                                <rect key="frame" x="183" y="310" width="83" height="74"/>
                             </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Calculator02.png" translatesAutoresizingMaskIntoConstraints="NO" id="RvL-SO-vYB">
-                                <rect key="frame" x="183" y="359" width="83" height="78"/>
+                                <rect key="frame" x="183" y="388" width="83" height="78"/>
                             </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Calculator02.png" translatesAutoresizingMaskIntoConstraints="NO" id="2yd-EZ-IlN">
-                                <rect key="frame" x="185" y="444" width="83" height="80"/>
+                                <rect key="frame" x="185" y="473" width="83" height="80"/>
                             </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="けいさんくんボタン.png" translatesAutoresizingMaskIntoConstraints="NO" id="hHA-eM-Du2">
-                                <rect key="frame" x="274" y="274" width="90" height="81"/>
+                                <rect key="frame" x="274" y="303" width="90" height="81"/>
                             </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="けいさんくんボタン.png" translatesAutoresizingMaskIntoConstraints="NO" id="xil-5t-c3J">
-                                <rect key="frame" x="274" y="359" width="90" height="78"/>
+                                <rect key="frame" x="274" y="388" width="90" height="78"/>
                             </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="けいさんくんボタン.png" translatesAutoresizingMaskIntoConstraints="NO" id="M5k-un-3rx">
-                                <rect key="frame" x="277" y="444" width="89" height="80"/>
+                                <rect key="frame" x="277" y="473" width="89" height="80"/>
                             </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="けいさんくんボタン.png" translatesAutoresizingMaskIntoConstraints="NO" id="o27-1O-pFy">
-                                <rect key="frame" x="278" y="529" width="90" height="78"/>
+                                <rect key="frame" x="278" y="558" width="90" height="78"/>
                             </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Calculator02.png" translatesAutoresizingMaskIntoConstraints="NO" id="zww-ay-pDC">
-                                <rect key="frame" x="14" y="527" width="82" height="78"/>
-                            </imageView>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="けいさんくんボタン.png" translatesAutoresizingMaskIntoConstraints="NO" id="Yaz-MY-82j">
-                                <rect key="frame" x="90" y="524" width="99" height="84"/>
+                                <rect key="frame" x="14" y="556" width="82" height="78"/>
                             </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="けいさんくんボタン.png" translatesAutoresizingMaskIntoConstraints="NO" id="Eyx-yV-aoN">
-                                <rect key="frame" x="187" y="524" width="91" height="84"/>
+                                <rect key="frame" x="187" y="553" width="91" height="84"/>
                             </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="0" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qzu-1m-QaQ">
-                                <rect key="frame" x="194" y="39" width="114" height="72"/>
+                                <rect key="frame" x="194" y="68" width="114" height="72"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="32"/>
                                 <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2dx-uK-H68">
-                                <rect key="frame" x="41" y="377" width="30" height="30"/>
+                                <rect key="frame" x="41" y="406" width="30" height="30"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="22"/>
                                 <state key="normal" title="４">
                                     <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
@@ -88,7 +85,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="rGJ-QM-k7F">
-                                <rect key="frame" x="220" y="553" width="30" height="30"/>
+                                <rect key="frame" x="220" y="582" width="30" height="30"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="22"/>
                                 <state key="normal" title="＝">
                                     <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
@@ -98,7 +95,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="prk-kM-cLe">
-                                <rect key="frame" x="212" y="467" width="30" height="30"/>
+                                <rect key="frame" x="212" y="496" width="30" height="30"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="22"/>
                                 <state key="normal" title="３">
                                     <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
@@ -108,7 +105,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="j7H-gl-VVn">
-                                <rect key="frame" x="308" y="553" width="30" height="30"/>
+                                <rect key="frame" x="308" y="582" width="30" height="30"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="22"/>
                                 <state key="normal" title="＋">
                                     <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
@@ -118,7 +115,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="IQZ-Kq-Rwx">
-                                <rect key="frame" x="305" y="472" width="30" height="30"/>
+                                <rect key="frame" x="305" y="501" width="30" height="30"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="22"/>
                                 <state key="normal" title="ー">
                                     <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
@@ -128,7 +125,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0Oh-vv-l4U">
-                                <rect key="frame" x="304" y="384" width="30" height="30"/>
+                                <rect key="frame" x="304" y="413" width="30" height="30"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <state key="normal" title="×">
                                     <color key="titleColor" cocoaTouchSystemColor="darkTextColor"/>
@@ -138,7 +135,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Z2P-iW-xx9">
-                                <rect key="frame" x="304" y="300" width="30" height="30"/>
+                                <rect key="frame" x="304" y="329" width="30" height="30"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="22"/>
                                 <state key="normal" title="÷">
                                     <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
@@ -148,7 +145,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="MGZ-I8-BZg">
-                                <rect key="frame" x="40" y="300" width="30" height="30"/>
+                                <rect key="frame" x="40" y="329" width="30" height="30"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="22"/>
                                 <state key="normal" title="７">
                                     <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
@@ -158,7 +155,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="DQ6-0u-a4Z">
-                                <rect key="frame" x="125" y="300" width="30" height="30"/>
+                                <rect key="frame" x="125" y="329" width="30" height="30"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="22"/>
                                 <state key="normal" title="８">
                                     <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
@@ -168,7 +165,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="chK-qj-2bD">
-                                <rect key="frame" x="209" y="383" width="30" height="30"/>
+                                <rect key="frame" x="209" y="412" width="30" height="30"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="22"/>
                                 <state key="normal" title="６">
                                     <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
@@ -178,7 +175,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="k2R-fZ-VkP">
-                                <rect key="frame" x="209" y="300" width="30" height="30"/>
+                                <rect key="frame" x="209" y="329" width="30" height="30"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="22"/>
                                 <state key="normal" title="９">
                                     <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
@@ -188,7 +185,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="P0x-Y5-SpV">
-                                <rect key="frame" x="125" y="380" width="30" height="30"/>
+                                <rect key="frame" x="125" y="409" width="30" height="30"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="22"/>
                                 <state key="normal" title="５">
                                     <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
@@ -198,7 +195,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ePZ-K2-hmU">
-                                <rect key="frame" x="125" y="467" width="30" height="30"/>
+                                <rect key="frame" x="125" y="496" width="30" height="30"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="22"/>
                                 <state key="normal" title="２">
                                     <color key="titleColor" cocoaTouchSystemColor="darkTextColor"/>
@@ -208,7 +205,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Igt-rS-oqg">
-                                <rect key="frame" x="40" y="467" width="30" height="30"/>
+                                <rect key="frame" x="40" y="496" width="30" height="30"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="22"/>
                                 <state key="normal" title="１">
                                     <color key="titleColor" cocoaTouchSystemColor="darkTextColor"/>
@@ -218,7 +215,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Fpm-vc-wL2">
-                                <rect key="frame" x="40" y="553" width="30" height="30"/>
+                                <rect key="frame" x="40" y="582" width="30" height="30"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="22"/>
                                 <state key="normal" title="０">
                                     <color key="titleColor" cocoaTouchSystemColor="darkTextColor"/>
@@ -228,7 +225,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kir-kg-Izs">
-                                <rect key="frame" x="95" y="533" width="89" height="72"/>
+                                <rect key="frame" x="95" y="562" width="89" height="72"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="24"/>
                                 <state key="normal" title="C">
                                     <color key="titleColor" cocoaTouchSystemColor="darkTextColor"/>
@@ -237,6 +234,9 @@
                                     <action selector="clear" destination="BYZ-38-t0r" eventType="touchUpInside" id="2rg-Tp-mhf"/>
                                 </connections>
                             </button>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="けいさんくんボタン.png" translatesAutoresizingMaskIntoConstraints="NO" id="Yaz-MY-82j">
+                                <rect key="frame" x="90" y="553" width="99" height="84"/>
+                            </imageView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
