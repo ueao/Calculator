@@ -117,13 +117,13 @@ class ViewController: UIViewController {
             label.text = String(number + number2)
         }
         if operation == 2 {
-            label.text = String(number - number2)
+            label.text = String(number2 - number)
         }
         if operation == 3 {
             label.text = String(number*number2)
         }
         if operation == 4 {
-            label.text = String(number/number2)
+            label.text = String(number2/number)
         }
         
     }

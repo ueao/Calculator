@@ -188,8 +188,8 @@
 			children = (
 				5832D87B1C7318ED00FCBFD5 /* ios */,
 				5864FC691C6C27CF00E4A129 /* AppDelegate.swift */,
-				5864FC6B1C6C27CF00E4A129 /* ViewController.swift */,
 				5864FC6D1C6C27CF00E4A129 /* Main.storyboard */,
+				5864FC6B1C6C27CF00E4A129 /* ViewController.swift */,
 				5864FC9D1C6C3DC800E4A129 /* けいさんくんボタン.png */,
 				5864FC991C6C3A6600E4A129 /* Calculator02.png */,
 				5864FC9A1C6C3A6600E4A129 /* カウントくも.png */,
